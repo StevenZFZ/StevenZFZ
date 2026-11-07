@@ -2,8 +2,10 @@
 
 ## Scientific Plot Studio · SPS
 
-一个面向科研的可编辑绘图工具。SPS 将数据和绘图设置保存在同一个工程里，方便重新打开、调整和导出。希望它能帮科研同学少做重复排版，把时间留给实验和分析。
+**在 Mac 上读取 Origin 工程，制作可移植的科研图表。**
 
-欢迎试用、报告问题，也欢迎一起改进代码、文档和示例。
+SPS 读取受支持的 Origin `.opj` / `.opju` 文件，将数据和图形样式保存在可重新编辑的 `.spsfig` 工程里。图件可以随 PowerPoint 演示文稿携带，也可以导出 SVG / PDF 到 Illustrator 排版。
+
+欢迎科研同学试用、报告问题，一起改进代码、文档和示例。
 
 [查看源码与中文使用说明](https://github.com/StevenZFZ/scientific-plot-studio) · [报告问题或分享反馈](https://github.com/StevenZFZ/scientific-plot-studio/issues)
